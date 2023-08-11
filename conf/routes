@@ -1,0 +1,5 @@
+GET /api/ping controllers.ApiTestController.ping
+
+# NEW
+GET /api/post/:postId           controllers.ApiTestController.getPost(postId: Int)
+GET /api/post/:postId/comments  controllers.ApiTestController.getComments(postId: Int)
