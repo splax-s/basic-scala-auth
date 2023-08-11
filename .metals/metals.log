@@ -97,3 +97,5 @@ INFO: Unsupported notification method: $/setTrace
 2023.08.10 20:43:47 WARN  no build target for: /Users/splax/Documents/codes/scala-code/basic-scala-auth/build.sbt[0m
 2023.08.10 20:51:32 WARN  no build target for: /Users/splax/Documents/codes/scala-code/basic-scala-auth/.g8/form/app/controllers/$model__Camel$Controller.scala[0m
 2023.08.10 21:17:31 WARN  no build target for: /Users/splax/Documents/codes/scala-code/basic-scala-auth/project/plugins.sbt[0m
+Aug 11, 2023 10:47:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
